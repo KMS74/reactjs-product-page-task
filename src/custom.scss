@@ -1,0 +1,16 @@
+// /* The following block can be included in a custom.scss */
+
+// /* make the customizations */
+$theme-colors: (
+  primary: #542e90,
+  secondary: #fff200,
+  success: #28a745,
+  info: #17a2b8,
+  warning: #ffc107,
+  danger: #dc3545,
+  light: #f8f9fa,
+  dark: #1d1d1b,
+);
+
+// /* import bootstrap to set changes */
+@import 'bootstrap/scss/bootstrap';
